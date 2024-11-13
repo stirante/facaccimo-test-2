@@ -4,5 +4,16 @@
   "artist": "asd",
   "author": "asd",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1731503141",
+      "groups": {
+        "": [
+          "https://preview.redd.it/disc-a-story-about-a-very-ordinary-couple-ch-34-by-v0-qjffvzo2gk0e1.png?width=1080&crop=smart&auto=webp&s=d0a1c6f9ff40394ddd6211b420331996cc6d8bca"
+        ]
+      }
+    }
+  }
 }
